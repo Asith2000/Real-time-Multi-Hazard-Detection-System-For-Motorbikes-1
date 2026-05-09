@@ -1,4 +1,4 @@
-# Road Multi-Hazard Detection System
+# REAL-TIME MULTI-HAZARD DETECTION SYSTEM FOR MOTORBIKES: AN INTEGRATED EMBEDDED VISION AND COMMUNITY MAPPING APPROACH
 
 AI-powered real-time motorcycle road hazard detection and community mapping system using YOLO26n, Raspberry Pi 4 Model B, Firebase RTDB, and an Android application.
 

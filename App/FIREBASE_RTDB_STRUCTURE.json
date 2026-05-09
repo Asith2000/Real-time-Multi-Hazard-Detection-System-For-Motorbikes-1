@@ -1,0 +1,36 @@
+{
+  "hazards": {
+    "abc123def456": {
+      "hazardClass": "pothole",
+      "latitude": 6.979949,
+      "longitude": 79.968411,
+      "timestamp": 1711425600000,
+      "confidence": 0.92,
+      "deviceId": "rpi-unit-01"
+    },
+    "bcd234efg567": {
+      "hazardClass": "speed_bump",
+      "latitude": 6.981910,
+      "longitude": 79.967672,
+      "timestamp": 1711425720000,
+      "confidence": 0.88,
+      "deviceId": "rpi-unit-01"
+    },
+    "cde345fgh678": {
+      "hazardClass": "crosswalk",
+      "latitude": 6.981256,
+      "longitude": 79.967112,
+      "timestamp": 1711425840000,
+      "confidence": 0.95,
+      "deviceId": "rpi-unit-01"
+    },
+    "def456ghi789": {
+      "hazardClass": "road_debris",
+      "latitude": 6.983996,
+      "longitude": 79.970225,
+      "timestamp": 1711425960000,
+      "confidence": 0.79,
+      "deviceId": "rpi-unit-01"
+    }
+  }
+}

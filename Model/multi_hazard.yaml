@@ -1,0 +1,7 @@
+path: /content/dataset/Multi-hazard_Labeled_Dataset  # Dataset root directory
+train: images/train   # Train images (relative to 'path')
+val: images/test      # Validation images (relative to 'path')
+
+# Classes
+nc: 4  # number of classes
+names: ['pothole', 'speed_bump', 'crosswalk', 'road_debris']

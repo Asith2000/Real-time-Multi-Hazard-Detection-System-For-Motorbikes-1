@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "hazards": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      "$hazardId": {
+        ".validate": "newData.hasChildren(['hazardClass','latitude','longitude','timestamp','confidence','deviceId'])
+                      && newData.child('hazardClass').isString()
+                      && newData.child('latitude').isNumber()
+                      && newData.child('longitude').isNumber()
+                      && newData.child('timestamp').isNumber()
+                      && newData.child('confidence').isNumber()
+                      && newData.child('deviceId').isString()"
+      }
+    }
+  }
+}

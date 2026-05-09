@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "571290900834",
+    "firebase_url": "https://roadhazardmap-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roadhazardmap",
+    "storage_bucket": "roadhazardmap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571290900834:android:b3f6dae998c7d50ea0b43b",
+        "android_client_info": {
+          "package_name": "com.example.roadhazardmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMGKJX0f5cLP3DqZzKJeabYyddYSM2VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

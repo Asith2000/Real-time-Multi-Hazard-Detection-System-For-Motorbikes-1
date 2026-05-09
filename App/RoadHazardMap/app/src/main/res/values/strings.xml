@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Road Hazard Map</string>
+    <string name="hazard_pothole">Pothole</string>
+    <string name="hazard_speed_bump">Speed Bump</string>
+    <string name="hazard_crosswalk">Crosswalk</string>
+    <string name="hazard_road_debris">Road Debris</string>
+</resources>
